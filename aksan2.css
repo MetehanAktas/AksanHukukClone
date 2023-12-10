@@ -1,0 +1,98 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 80vh;
+    background-image: linear-gradient(rgba(9, 3, 37, 0.7), rgba(12, 6, 39, 0.5)), url(aksnimg/foto4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .header .col a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    margin-bottom: 0;
+}
+.header-menu ul{
+    margin-top: 2rem;
+}
+.col-sm-3{
+    margin-top: 2rem;
+}
+.headerh3{
+    padding-bottom: 2rem;
+}
+.headerh3 h3{
+    margin-top: 200px;
+}
+.yazi1{
+    color: brown;
+}
+.yazi2{
+    color: brown;
+}
+.liste1  li a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    padding-bottom: 20px;
+}
+.liste1  li a:hover{
+    color: brown;
+}
+.liste2  li a{
+    text-decoration: none;
+    color: black;
+}
+.liste3  li a{
+    text-decoration: none;
+    color: black;
+}
+.liste2  li a:hover{
+    color: brown;
+}
+.liste3  li a:hover{
+    color: brown;
+}
+footer{
+    width: 100%;
+    height: 100vh;
+    background-color: #020a20;
+}
+.row1{
+    padding-top: 90px;
+    
+}
+.footerh5{
+    color: white;
+}
+.footer1 h4{
+    padding-bottom: 1rem;
+}
+.btninp{
+    margin-left: 150px;
+}
+.form-control{
+    background-color: #020a20;
+}
+.ikonlar a i{
+    margin-left: 25px;
+}
+.ikonlar{
+    margin-left: 60px;
+}
+.ikonlar a{
+    color: white;
+}
+.ikonlar a:hover{
+    size: 5px;
+    color: gray;
+}
+
+

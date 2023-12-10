@@ -1,0 +1,112 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 75vh;
+    background-image: linear-gradient(rgba(9, 3, 37, 0.7), rgba(12, 6, 39, 0.5)), url(aksnimg/foto5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .header .col a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    margin-bottom: 0;
+}
+.header-menu ul{
+    margin-top: 2rem;
+}
+.col-sm-3{
+    margin-top: 2rem;
+}
+.headerh3{
+    padding-bottom: 2rem;
+}
+.headerh3 h3{
+    margin-top: 200px;
+}
+h3{
+    padding-left: 30px;
+}
+.baslik1{
+    color: brown;
+}
+.baslik2{
+    color: brown;
+}
+.kısım2{
+    width: 100%;
+    height: 55vh;
+    background-image: linear-gradient(rgba(15, 4, 66, 0.7), rgba(15, 4, 66, 0.5)), url(aksnimg/foto6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contentcol{
+    margin-top: 120px;
+}
+.yazi3{
+    margin-bottom: 50px;
+}
+.btn{
+    border-bottom: 1px solid black;
+    border-radius: 0;
+    color: black;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+    border-bottom: 1px solid white;
+    
+}
+.btn-outline-secondary {
+    --bs-btn-color: #6c757d;
+    --bs-btn-border-color: #6c757d;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #6c757d;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #6c757d;
+    --bs-btn-active-border-color: #6c757d;
+    --bs-btn-disabled-color: #6c757d;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #6c757d;
+    --bs-gradient: none;
+}
+footer{
+    width: 100%;
+    height: 100vh;
+    background-color: #020a20;
+}
+.row1{
+    padding-top: 90px;
+    
+}
+.footerh5{
+    color: white;
+}
+.footer1 h4{
+    padding-bottom: 1rem;
+}
+.btninp{
+    margin-left: 150px;
+}
+.form-control{
+    background-color: #020a20;
+}
+.ikonlar a i{
+    margin-left: 25px;
+}
+.ikonlar{
+    margin-left: 60px;
+}
+.ikonlar a{
+    color: white;
+}
+.ikonlar a:hover{
+    size: 5px;
+    color: gray;
+}
